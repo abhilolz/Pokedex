@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abhilolz/Pokedex.git/static/css/main.c4bfbd9e.css",
+    "main.js": "/abhilolz/Pokedex.git/static/js/main.fb061c47.js",
+    "index.html": "/abhilolz/Pokedex.git/index.html",
+    "main.c4bfbd9e.css.map": "/abhilolz/Pokedex.git/static/css/main.c4bfbd9e.css.map",
+    "main.fb061c47.js.map": "/abhilolz/Pokedex.git/static/js/main.fb061c47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4bfbd9e.css",
+    "static/js/main.fb061c47.js"
+  ]
+}
